@@ -1,0 +1,1 @@
+What are the specific techniques used in a man-in-the-middle attack to intercept HTTPS traffic, and how would an attacker deploy a rogue wireless access point to execute this against unsuspecting users?

@@ -1,0 +1,1 @@
+What is the standard procedure to gain access to a corporate network without credentials?
